@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Teko';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/Teko-regular/Teko-regular.eot');
+    src: url('../fonts/Teko-regular/Teko-regular.eot?#iefix') format('embedded-opentype'), local('Teko Regular'), local('Teko-regular'), url('../fonts/Teko-regular/Teko-regular.woff2') format('woff2'), url('../fonts/Teko-regular/Teko-regular.woff') format('woff'), url('../fonts/Teko-regular/Teko-regular.ttf') format('truetype'), url('../fonts/Teko-regular/Teko-regular.svg#Teko') format('svg');
+}
